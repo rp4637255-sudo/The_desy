@@ -1,0 +1,123 @@
+const products = [
+  {
+    id: "1784186607582",
+    name: "नींबू अचार",
+    category: "Fruit Pickle",
+    price: 400,
+    oldPrice: 500,
+    discount: "20% OFF",
+    weight: "1kg",
+    rating: 4.8,
+    image: "/images/1784186607582.png",
+  },
+
+  {
+    id: "1784186665327",
+    name: "लहसुन अचार",
+    category: "Vegetable Pickle",
+    price: 500,
+    oldPrice: 625,
+    discount: "20% OFF",
+    weight: "1kg",
+    rating: 4.9,
+    image: "/images/1784186665327.png",
+  },
+
+  {
+    id: "1784186722336",
+    name: "मिर्ची अचार",
+    category: "Vegetable Pickle",
+    price: 600,
+    oldPrice: 750,
+    discount: "20% OFF",
+    weight: "1kg",
+    rating: 4.8,
+    image: "/images/1784186722336.png",
+  },
+
+  {
+    id: "1784186774291",
+    name: "आंवला अचार",
+    category: "Fruit Pickle",
+    price: 550,
+    oldPrice: 688,
+    discount: "20% OFF",
+    weight: "1kg",
+    rating: 4.7,
+    image: "/images/1784186774291.png",
+  },
+
+  {
+    id: "1784186839881",
+    name: "रुगड़ा अचार",
+    category: "Jharkhand Special",
+    price: 450,
+    oldPrice: 563,
+    discount: "20% OFF",
+    weight: "1kg",
+    rating: 4.9,
+    image: "/images/1784186839881.png",
+  },
+
+  {
+    id: "1784187000620",
+    name: "हरी मिर्च लाल मिर्च अचार",
+    category: "Mixed Pickle",
+    price: 500,
+    oldPrice: 625,
+    discount: "20% OFF",
+    weight: "1kg",
+    rating: 4.8,
+    image: "/images/1784187000620.png",
+  },
+
+  {
+    id: "1784187079316",
+    name: "कटहल अचार",
+    category: "Jharkhand Special",
+    price: 600,
+    oldPrice: 750,
+    discount: "20% OFF",
+    weight: "1kg",
+    rating: 4.8,
+    image: "/images/1784187079316.png",
+  },
+
+  {
+    id: "1784187435253",
+    name: "रुगड़ा अचार",
+    category: "Jharkhand Special",
+    price: 550,
+    oldPrice: 688,
+    discount: "20% OFF",
+    weight: "1kg",
+    rating: 4.8,
+    image: "/images/1784187435253.png",
+  },
+
+  {
+    id: "1784187564326",
+    name: "गाजर अचार",
+    category: "Vegetable Pickle",
+    price: 450,
+    oldPrice: 563,
+    discount: "20% OFF",
+    weight: "1kg",
+    rating: 4.7,
+    image: "/images/1784187564326.png",
+  },
+
+  {
+    id: "1784187695988",
+    name: "आंवला अचार",
+    category: "Fruit Pickle",
+    price: 600,
+    oldPrice: 750,
+    discount: "20% OFF",
+    weight: "1kg",
+    rating: 4.9,
+    image: "/images/1784187695988.png",
+  },
+];
+
+export default products;
