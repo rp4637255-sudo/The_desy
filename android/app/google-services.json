@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222506721011",
+    "project_id": "thedasy-70fd9",
+    "storage_bucket": "thedasy-70fd9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222506721011:android:3a003a58d5c06077e02186",
+        "android_client_info": {
+          "package_name": "com.thedesy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222506721011-toost3br07rk2r4bhkjjqt13hmmrcdnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcBnvAtFeqc9ixgl_wuCIAT3AAppLYYkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222506721011-toost3br07rk2r4bhkjjqt13hmmrcdnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
